@@ -1,0 +1,15 @@
+img{
+    float: left;
+}
+hr{
+    clear: left;
+}
+h1,h2{
+    position: relative;
+    left: 50px;
+    
+}
+.new{
+    text-align: center;
+    left: 10px;
+}
